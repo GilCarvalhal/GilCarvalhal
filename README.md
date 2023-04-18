@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gil Carvalhal 🤙
+## Olá! Eu sou Gil Carvalhal 🤙
 
 <br/>
 
