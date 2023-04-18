@@ -6,6 +6,8 @@
 
 ![Gil GitHub stats](https://github-readme-stats.vercel.app/api?username=GilCarvalhal&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilCarvalhal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu utilizo!
 
 <div style="display: inline_block"><br/>
