@@ -21,3 +21,5 @@
 </div><br/>
 
 #### Formado em administração de empresas pela faculdade UNIME e estudante do curso superior, análise e desenvolvimento de sistemas na Estácio. Sou um apaixonado por desenvolvimento de softwares, visando programar com ênfase em backend para web. Sempre buscando gerar e participar de soluções criativas para facilitar a vida de todos, assim como deve ser o objetivo de um profissional de TI.
+
+![snake gif](https://github.com/GilCarvalhal/GilCarvalhal/blob/output/github-contribution-grid-snake.svg)
