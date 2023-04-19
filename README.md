@@ -9,16 +9,15 @@
 ## Tecnologias que eu utilizo!
 
 <div style="display: inline_block"><br/>
-<img align="center" style="border-radius: 70px" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img align="center" style="border-radius: 70px" alt="SPRINGBOOT" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img align="center" style="border-radius: 70px" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" style="border-radius: 70px" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" style="border-radius: 70px" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" style="border-radius: 70px" alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img align="center" style="border-radius: 70px" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/><br/>
-<img align="center" style="border-radius: 70px" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img align="center" alt="SPRINGBOOT" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img align="center" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div><br/>
 
- Formado em administração de empresas pela faculdade UNIME e estudante do curso superior, análise e desenvolvimento de sistemas na Estácio. Sou um apaixonado por desenvolvimento de softwares, visando programar com ênfase em backend para web. Sempre buscando gerar e participar de soluções criativas para facilitar a vida de todos, assim como deve ser o objetivo de um profissional de TI.
+Formado em administração de empresas pela faculdade UNIME e estudante do curso superior, análise e desenvolvimento de sistemas na Estácio. Sou um apaixonado por desenvolvimento de softwares, visando programar com ênfase em backend para web. Sempre buscando gerar e participar de soluções criativas para facilitar a vida de todos, assim como deve ser o objetivo de um profissional de TI.
 
  
