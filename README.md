@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-carvalhal/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gilcarvalhal1/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GilCarvalhal&show_icons=true&theme=onedark)
+![GilCarvalhal GitHub stats](https://github-readme-stats.vercel.app/api?username=GilCarvalhal&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilCarvalhal&layout=compact&theme=onedark)](https://github.com/GilCarvalhal/github-readme-stats)
 
 
