@@ -1,4 +1,5 @@
 ## Olá! Eu sou o Gil Carvalhal 🤙
+###### Formado em administração de empresas pela faculdade UNIME e estudante do curso superior, análise e desenvolvimento de sistemas na Estácio. Sou um apaixonado por desenvolvimento de softwares, visando programar com ênfase em backend para web. Sempre buscando gerar e participar de soluções criativas para facilitar a vida de todos, assim como deve ser o objetivo de um profissional de TI.
 
 <br/>
 
@@ -20,6 +21,6 @@
 <img align="center" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div><br/>
 
-Formado em administração de empresas pela faculdade UNIME e estudante do curso superior, análise e desenvolvimento de sistemas na Estácio. Sou um apaixonado por desenvolvimento de softwares, visando programar com ênfase em backend para web. Sempre buscando gerar e participar de soluções criativas para facilitar a vida de todos, assim como deve ser o objetivo de um profissional de TI.
+
 
  
