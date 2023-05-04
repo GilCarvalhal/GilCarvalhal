@@ -1,5 +1,5 @@
 ## Olá, eu sou Gil Carvalhal! 🤙
-###### Formado em administração de empresas pela faculdade UNIME e estudante do curso superior, análise e desenvolvimento de sistemas na Estácio. Sou um apaixonado por desenvolvimento de softwares, visando programar com desenvolvimento web Fullstack. Sempre buscando gerar e participar de soluções criativas para facilitar a vida de todos, assim como deve ser o objetivo de um profissional de TI.
+###### Formado em administração de empresas pela faculdade UNIME e estudante do curso superior, análise e desenvolvimento de sistemas na Estácio. Sou um apaixonado por desenvolvimento de softwares, visando programar com desenvolvimento web Fullstack. Estou sempre buscando gerar e participar de soluções criativas para facilitar a vida de todos, assim como deve ser o objetivo de um profissional de TI.
 
 <br/>
 
