@@ -9,8 +9,8 @@
  
  <div align="center">
  <a href="https://github.com/GilCarvalhal"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilCarvalhal&layout=compact&theme=dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilCarvalhal&show_icons=true&theme=dark">
+  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilCarvalhal&layout=compact&show_icons=true&theme=dark&https://github.com/GilCarvalhal/github-readme-stats">
+  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=GilCarvalhal&show_icons=true&theme=dark&https://github.com/GilCarvalhal/github-readme-stats">
  </div>
 
 
