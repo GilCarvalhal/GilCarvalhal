@@ -7,8 +7,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gilcarvalhal1/)
 
  
-![Gil Carvalhal GitHub stats](https://github-readme-stats.vercel.app/api?username=GilCarvalhal&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilCarvalhal&layout=compact&theme=dracula)
+ <div align="center">
+ <a href="https://github.com/GilCarvalhal"></a>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilCarvalhal&layout=compact&theme=dracula">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=GilCarvalhal&show_icons=true&theme=dracula">
+ </div>
 
 
 ## Tecnologias que eu utilizo!
