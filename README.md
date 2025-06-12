@@ -4,6 +4,7 @@
 
 <br/>
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilberto-carvalhal/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gilcarvalhal1/)
 
@@ -18,6 +19,7 @@
 ## Tecnologias que eu utilizo!
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 
+<div align="center">
 <div style="display: inline_block"><br/>
   <img align="center" height="22px" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img align="center" height="22px" alt="LARAVEL" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -29,7 +31,7 @@
  <img align="center" height="22px" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
  <img align="center" height="22px" alt="GIT" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </div><br/>
-
+</div>
 
 
  
